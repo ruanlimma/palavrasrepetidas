@@ -1,0 +1,3 @@
+Palavras duplicadas no parágrafo 3: uma 
+Palavras duplicadas no parágrafo 7: dispositivos, web, seu, conectado 
+Palavras duplicadas no parágrafo 8: cliente, uma, para 
