@@ -95,6 +95,6 @@ function criaSalvaArquivo (listaPalavras, endereco, nomeArquivo){
         console.log(chalk.green('Arquivo criado.'));        
     }).catch((erro) => {
         throw erro
-    }).finally(() => console.log(chalk.blue('Operação finalizada.')))
+    }).finally(() => console.log(chalk.yellow('Operação finalizada.')))
 }
 
