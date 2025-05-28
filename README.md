@@ -1,4 +1,4 @@
-Aplicação feita em Node.js, para saber quais palavras se repetem em um texto. 
+Aplicação feita em Node.js, para saber quais palavras, com mais de duas sílabas, se repetem em um texto. 
 
 Pelo terminal, o usuário escreve o endereço para um texto no formato txt e um outro endereço, para a criação do arquivo de saída, que também será no formato txt.
 
